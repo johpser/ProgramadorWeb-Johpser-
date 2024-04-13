@@ -18,7 +18,7 @@
 }
 
 .navflex{
-    
+
     margin-top: 40px;
     column-gap: 610px;
     justify-content: normal;
@@ -143,4 +143,73 @@ footer {
 footer img{
     width: 30px;
 }
+
+
+/* Biografia*/
+
+
+.biografia
+{
+    margin-left: 10%;
+    margin-top: 120px;
+    margin-right: 10%;
+    
+}
+
+.hola{
+    font-size: 100px;
+    font-family: "Lora", serif;
+    font-weight: 500;
+    text-align: center;
+
+}
+
+.desripcionbio{
+    font-family: "Alegreya", serif;
+    margin-top: 40px;
+    font-size: 22px;
+    text-align: justify;
+    color: #848484;
+}
+
+.cajongeneral{
+    width: 80%;
+    display: flex;
+    margin-left: 10%;
+    column-gap: 100px;
+
+}
+
+.imagenbio{
+    border-radius: 25px;
+    margin-top: 33px;
+}
+
+.textobiografia{
+    grid-area: texto;
+}
+
+.biografia{
+    width: 80%;}
+
+
+.trabajo{
+    font-size: 50px;
+    font-family: Lora, serif;
+    font-weight: 500;
+    margin-left: 208px;
+    margin-top: -38px;
+
+}
+
+.desripcionbio1{
+    font-family: "Alegreya", serif;
+    margin-top: 40px;
+    font-size: 22px;
+    text-align: justify;
+    color: #848484;
+}
+
+
+
 
